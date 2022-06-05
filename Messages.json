@@ -360,17 +360,18 @@
     "LEGEND_EXPLOSIVENESS_MULTIPLIER": "Item %stat.explosiveness% Multiplier",
     "LEGEND_FLAMMABILITY_MULTIPLIER": "Item %stat.flammability% Multiplier",
     "LEGEND_POWER_MULTIPLIER": "Item %stat.charge% Multiplier",
-    "LEGEND_DAMAGE_MULTIPLIER": "%stat.damagemultiplier%"
+    "LEGEND_DAMAGE_MULTIPLIER": "%stat.damagemultiplier%",
+    "BANNED_LOGIN": "Unfortunately, you've been banned. If you think there is a mistake, contact admins on Discord.\n\nReason provided:\n@"
   },
   "lobby": {
     "SERVER_NAME": "[yellow]⚡ [red]Ranked 1 vs 1 [yellow]⚡",
     "SERVER_NAME_2V2": "[yellow]⚡ [red]Ranked [blue]2 vs 2 [yellow]⚡",
     "SERVER_NAME_3V3": "[yellow]⚡ [red]Ranked [purple]3 vs 3 [yellow]⚡",
     "SERVER_NAME_HEX": "[yellow]⚡ [red]Ranked [green]H E X [yellow]⚡",
-    "SERVER_DESCRIPTION": "[red]rating-based matchmaking\n[#00aaaa]Season IX",
-    "SERVER_DESCRIPTION_2V2": "[#00aaaa]Season IX",
-    "SERVER_DESCRIPTION_3V3": "[#00aaaa]Season IX",
-    "SERVER_DESCRIPTION_HEX": "[green]new quality level of hex\n[#00aaaa]Season IX",
+    "SERVER_DESCRIPTION": "[red]rating-based matchmaking with [orange]fair balance\n[#da2233]Blood Season X",
+    "SERVER_DESCRIPTION_2V2": "[#da2233]Blood Season X",
+    "SERVER_DESCRIPTION_3V3": "[#da2233]Blood Season X",
+    "SERVER_DESCRIPTION_HEX": "[green]new quality level of hex\n[#da2233]Blood Season X",
     "WELCOME_MESSAGE": "[red]Welcome to Ranked PvP!\n\n[white]Tap the label in top-left corner\nto get into the queue (or write [yellow]/r[])\nmatchmaking can take several minutes\n\nwrite [yellow]/help[white] to list all commands\n\nyou are advised to complete\n[yellow]/tutorial[] before going for a match\n\nLeave feedback in\n[blue]Discord %discord%[white]\n[yellow]@[white]",
     "LEADERBOARD_FORMAT_TOP3": "Leaderboard (global):\n[red]\uE1B3 [white]@[white] ([@]@[white], [@]@ [@]#@[white])\n[orange]\uE1B4 [white]@[white] ([@]@[white], [@]@ [@]#@[white])\n[yellow]\uE1B5 [white]@[white] ([@]@[white], [@]@ [@]#@[white])",
     "SHORT_LEADERBOARD_FORMAT_TOP3": "Leaderboard (global):\n[red]\uE1B3 [white]@ [@]@\n[orange]\uE1B4 [white]@ [@]@\n[yellow]\uE1B5 [white]@ [@]@",
@@ -424,7 +425,7 @@
     "SPECTATE_MATCH_FORMAT": "[white]> [orange]@[]: @ [white]+[yellow]@[white] spectators\nMap: [yellow]@[], duration: [yellow]@[] minutes",
     "SPECTATE_LIST": "Available matches:\n@\nJoin via [yellow]/s [orange][roomid/nickname]",
     "SPECTATE_CANT_FIND_MATCH": "[scarlet]Can't find specified match",
-    "BUILD_RESTRICTION": "[scarlet]You should complete [yellow]@[] more ranked matches\nbefore being able to build in lobby.\n\nSend [yellow]/r[] and wait for a match",
+    "BUILD_RESTRICTION": "[scarlet]You should complete [yellow]@[] more ranked matches\nbefore being able to interact or build in lobby.\n\nSend [yellow]/r[] and wait for a match",
     "BUILD_RESTRICTION_HIDDEN_NAME": "[scarlet]Building in lobby is restricted for hidden names.",
     "BUILDING_BLOCKED": "[scarlet]Building in lobby is temporarily blocked by admins",
     "NOT_QUEUED_BUTTON": "Not queued",
@@ -455,12 +456,13 @@
     "GROUP_INVITED": "@[white] invited you to join group. Accept with command [yellow]/g @",
     "GROUP_INVITE_SUCCESS": "You successfully invited player @[white] into your group.",
     "NOT_ALLOWED_MATCH_TYPE": "This action is not allowed for current match type.",
-    "LOBBY_AI_NOTICE": "[red]Lobby AI[]\n\nTake this power with respect to other players. Try to make this [green]fun for others, not fun to yourself[].\n\nPlease note some players may take lobby gameplay too serious - [yellow]please, do not ruin their experience[].\n\n[green]SeaPy",
+    "LOBBY_AI_NOTICE": "[red]Lobby AI[]\n\nTake this power with respect to other players. Try to make this [green]fun for others, not fun to yourself[].\n\nNote that some players may take lobby gameplay too serious - [yellow]please, do not ruin their experience[].\n\n[green]SeaPy",
     "FORCED_1V1_NEED_MORE_MATCHES": "Before you access other matchmaking types you need to play [yellow]@[] more [red]1v1[] matches.",
     "DUEL_ALREADY_CALLED": "[red]You already called for duel a player @[red], waiting for response.",
     "DUEL_TIMEOUT": "[red]Timed out waiting for your response for duel invitation from @",
     "DUEL_TIMEOUT_WAITING_RESPONSE": "[red]Timed out waiting for duel invitation response from @",
-    "DUEL_TARGET_LEFT": "[yellow]Your duel target @ left the lobby"
+    "DUEL_TARGET_LEFT": "[yellow]Your duel target @ left the lobby",
+    "BANNED_COMMAND": "[red]You are banned from using [yellow]@[] command."
   },
   "room": {
     "SINGLE_PLAYER_FINISH_INFO_RANKED_FORMAT": "#[@]@[] @[white]: [orange]@->@[white]@",

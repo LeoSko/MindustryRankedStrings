@@ -325,6 +325,7 @@
     "ONBOARDING_LOSING_CORE_TO_TIEBREAKER": "You have just [red]lost your core[] to tiebreaker. Tiebreaker ensures battles are not infinite and is just another way to win in long battles (by cutting the power lines or your enemy, for example).\n\nBe more careful next time!",
     "ONBOARDING_TAPPING_ON_SPECTATE_IN_LOBBY": "You have [yellow]tapped[] on a promoted match to [green]spectate it[]. This function and many other UI features are toggleable via command [yellow]/ui[].\n\nTapping-to-spectate can be disabled with [yellow]/ui - tap_spectate[]",
     "PATHFINDING_TYPE": "Pathfinding",
+    "PIERCE_BUILDING": "pierce buildings",
     "KEEP_VELOCITY": "projectile inertia",
     "PATHFINDING_RUSH": "default",
     "PATHFINDING_NON_RUSH": "keeps max distance",
@@ -361,6 +362,7 @@
     "LEGEND_FLAMMABILITY_MULTIPLIER": "Item %stat.flammability% Multiplier",
     "LEGEND_POWER_MULTIPLIER": "Item %stat.charge% Multiplier",
     "LEGEND_DAMAGE_MULTIPLIER": "%stat.damagemultiplier%",
+    "LEGEND_PIERCE_BUILDING": "pierce buildings",
     "BANNED_LOGIN": "Unfortunately, you've been banned. If you think there is a mistake, contact admins on Discord.\n\nReason provided:\n@"
   },
   "lobby": {
@@ -368,10 +370,10 @@
     "SERVER_NAME_2V2": "[yellow]⚡ [red]Ranked [blue]2 vs 2 [yellow]⚡",
     "SERVER_NAME_3V3": "[yellow]⚡ [red]Ranked [purple]3 vs 3 [yellow]⚡",
     "SERVER_NAME_HEX": "[yellow]⚡ [red]Ranked [green]H E X [yellow]⚡",
-    "SERVER_DESCRIPTION": "[red]rating-based matchmaking with [orange]fair balance\n[#da2233]Blood Season X",
-    "SERVER_DESCRIPTION_2V2": "[#da2233]Blood Season X",
-    "SERVER_DESCRIPTION_3V3": "[#da2233]Blood Season X",
-    "SERVER_DESCRIPTION_HEX": "[green]new quality level of hex\n[#da2233]Blood Season X",
+    "SERVER_DESCRIPTION": "[red]rating-based matchmaking with [orange]fair balance\n[#b958a5]Hot Season XI",
+    "SERVER_DESCRIPTION_2V2": "[#b958a5]Hot Season XI",
+    "SERVER_DESCRIPTION_3V3": "[#b958a5]Hot Season XI",
+    "SERVER_DESCRIPTION_HEX": "[green]new quality level of hex\n[#b958a5]Hot Season XI",
     "WELCOME_MESSAGE": "[red]Welcome to Ranked PvP!\n\n[white]Tap the label in top-left corner\nto get into the queue (or write [yellow]/r[])\nmatchmaking can take several minutes\n\nwrite [yellow]/help[white] to list all commands\n\nyou are advised to complete\n[yellow]/tutorial[] before going for a match\n\nLeave feedback in\n[blue]Discord %discord%[white]\n[yellow]@[white]",
     "LEADERBOARD_FORMAT_TOP3": "Leaderboard (global):\n[red]\uE1B3 [white]@[white] ([@]@[white], [@]@ [@]#@[white])\n[orange]\uE1B4 [white]@[white] ([@]@[white], [@]@ [@]#@[white])\n[yellow]\uE1B5 [white]@[white] ([@]@[white], [@]@ [@]#@[white])",
     "SHORT_LEADERBOARD_FORMAT_TOP3": "Leaderboard (global):\n[red]\uE1B3 [white]@ [@]@\n[orange]\uE1B4 [white]@ [@]@\n[yellow]\uE1B5 [white]@ [@]@",
@@ -522,7 +524,8 @@
     "DRAW_USAGE": "[yellow]/draw[] to accept a draw.",
     "RECONNECTED_AFTER_ABANDONED": "You have reconnected after you have abandoned the match. You can still watch it as a spectator, or start searching a new match.",
     "ADMIN_FORCED_TUTORIAL": "[green]Seems like you are new to the server and administrator has forced a tutorial for you.\n\nIt will start shortly, and you will learn how to do simple things there.\n\nIt will take about 10 minutes.",
-    "PLAYER_ABANDONED": "Player @[white] from team [#@]@[] left the match and can't come back anymore."
+    "PLAYER_ABANDONED": "Player @[white] from team [#@]@[] left the match and can't come back anymore.",
+    "AUTOFILL_WARNING": "It seems you are using AutoFill, which is [red]not allowed[] on this server. Turn it off [red]now[] and play fair, otherwise your progress will be lost."
   },
   "tutorial": {
     "IN_THE_QUEUE_TUTORIAL": "You are in the queue for tutorial",

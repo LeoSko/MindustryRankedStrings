@@ -245,6 +245,7 @@
     "ONBOARDING_LOSING_CORE_TO_TIEBREAKER": "Вы только что [red]потеряли ядро[] из-за тай-брейка. Тай-брейк позволяет битвам не продолжаться бесконечно, а также является дополнительным способом победить в длительных битвах (например, обрезав линии передачи энергии врага).\n\nВ следующий раз будьте более осторожны!",
     "ONBOARDING_TAPPING_ON_SPECTATE_IN_LOBBY": "Вы [yellow]нажали[] на рекомендуемый для [green]наблюдения[] матч. Эта функция и другие особенности интерфейса можно настроить командой [yellow]/ui[].\n\nПереход к наблюдению за матчем по нажатию можно отключить командой [yellow]/ui - tap_spectate[]",
     "PATHFINDING_TYPE": "поиск пути",
+    "PIERCE_BUILDING": "пробивает здания",
     "KEEP_VELOCITY": "инерция снаряда",
     "PATHFINDING_RUSH": "по-умолчанию",
     "PATHFINDING_NON_RUSH": "стреляет издалека",
@@ -272,7 +273,9 @@
     "LEGEND_EXPLOSIVENESS_MULTIPLIER": "%stat.explosiveness% Предметов",
     "LEGEND_FLAMMABILITY_MULTIPLIER": "%stat.flammability% Предметов",
     "LEGEND_POWER_MULTIPLIER": "%stat.charge% Предметов",
-    "BANNED_LOGIN": "К сожалению, ваш аккаунт заблокирован. Если вы думаете что это ошибка, свяжитесь с администрацией в Discord.\n\nПричина:\n@"
+    "LEGEND_PIERCE_BUILDING": "пробивает здания",
+    "BANNED_LOGIN": "К сожалению, ваш аккаунт заблокирован. Если вы думаете что это ошибка, свяжитесь с администрацией в Discord.\n\nПричина:\n@",
+    "AUTOFILL_WARNING": "Вы используете автозаполнение, и это [red]не разрешено[] на этом сервере. Выключите его [red]сейчас[] и играйте честно, иначе весь ваш прогресс может быть потерян."
   },
   "lobby": {
     "WELCOME_MESSAGE": "[red]Добро пожаловать в рейтинговый PvP!\n\n[white]Чтобы встать в очередь нажмите на надпись\nв левом верхнем углу (или напишите [yellow]/r[])\nподбор игроков может занять несколько минут\n\nнапишитe [yellow]/help[white] чтобы посмотреть все команды сервера\n\nрекомендуется пройти обучение\nкомандой [yellow]/tutorial[] перед боем\n\nОтставить отзыв можно в [blue]Discord %discord%[white]\n[yellow]@[white]",
@@ -319,9 +322,9 @@
     "SERVER_AUTHOR_INFO_LABEL": "[red]Mindustry Ranked PvP[white] сервер от SeaPy\nПосмотреть список команд: [yellow]/help\n\n[yellow]Сайт: ranked.ddns.net\n[#7289da]Дискорд : @",
     "LEADERBOARD_FORMAT_TOP3_LOCAL": "Лидеры ([@]@ [@]#@[white]):\n[red]\uE1B3 [white]@ [@]@\n[orange]\uE1B4 [white]@ [@]@\n[yellow]\uE1B5 [white]@ [@]@",
     "SHORT_LEADERBOARD_FORMAT_TOP3_LOCAL": "Лидеры ([@]@ [@]@[white]):\n[red]\uE1B3 [white]@ [@]@\n[orange]\uE1B4 [white]@ [@]@\n[yellow]\uE1B5 [white]@ [@]@",
-    "SERVER_DESCRIPTION": "[red]1 на 1 с [orange]исправленным балансом\n[#da2233]Сезон Крови X",
-    "SERVER_DESCRIPTION_2V2": "[#da2233]Сезон Крови X",
-    "SERVER_DESCRIPTION_3V3": "[#da2233]Сезон Крови X",
+    "SERVER_DESCRIPTION": "[red]1 на 1 с [orange]исправленным балансом\n[#b958a5]Горячий Сезон XI",
+    "SERVER_DESCRIPTION_2V2": "[#b958a5]Горячий Сезон XI",
+    "SERVER_DESCRIPTION_3V3": "[#b958a5]Горячий Сезон XI",
     "UNREAD_NEWS": "[white]Непрочитанных новостей: [yellow]@[white], напишите [yellow]/news[white] чтобы прочитать их.",
     "AUTOREADY_OFF_UNREAD_NEWS": "AutoReady [red]не[white] задействован потому что у вас есть непрочитанные новости, [cyan]@ [yellow]/news",
     "SUPPORTED_LANGUAGES": "Поддерживаемые языки: @",

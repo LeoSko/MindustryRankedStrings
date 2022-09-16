@@ -106,6 +106,7 @@
     "UI_timer": "таймер в бою",
     "UI_tap_spectate": "включает переход к наблюдению за матчем по нажатию на него в лобби",
     "UI_tap_hub": "включает в режиме наблюдателя по нажатию на /hub переход в лобби",
+    "UI_spectate_default": "включает отображение ресурсов в режиме наблюдения по-умолчанию",
     "MAIL_FORMAT": "[green]@[] @[yellow]#@[white]: @\n[green]Ответить можно командой [yellow]/mail @ [message...]",
     "KICKED_BY_ADMIN": "Вас кикнул админ @[white]#[yellow]@[]:\n@",
     "ACHIEVEMENT_LIST_ITEM": "[@]@[] / [@]@[] получили",
@@ -416,6 +417,10 @@
     "REASON_abandoned": "вышел",
     "REASON_agreement": "соглашение",
     "REASON_surrender": "сдался",
+    "SPECTATE_MODE_RESOURCES_ABS": "текущие ресурсы",
+    "SPECTATE_MODE_RESOURCES_RATES": "ресурсы в секунду",
+    "SPECTATE_MODE_NONE": "скрыть",
+    "SPECTATE_MODE_CHANGED": "Режим наблюдения за командой [#@]@[] изменён на [yellow]@[].",
     "PLAYER_ABANDONED": "Игрок @[white] из команды [#@]@[] покинул игру и больше не может вернуться."
   },
   "tutorial": {

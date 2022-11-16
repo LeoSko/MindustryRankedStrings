@@ -482,6 +482,6 @@
     "TUTORIAL_BASIC_MINIMAP": "미니맵. 마지막 단계!\n\n적이 어디에서 오는지 확인하기 위해선, 미니맵을 활용하는 것이 좋습니다.\n만약 활성화되어있지 않다면,\n설정 -> 그래픽 -> 미니맵 표시.\n\n- 모바일은 미니맵에서 위로 스윕하면 \n줌 아웃 할 수 있습니다\n- PC에서는 미니맵을 열어 스크롤 다운으로 줌아웃 할 수 있습니다\n\n첫 번째 적이 어디를 통해 오는지 확인하고, \n방어를 위해 서둘러 전력을 연결하세요!\n여기에서 당신의 목표는 포탑을 활용해 \n각 유형의 적을 처치하는 것입니다.",
     "TUTORIAL_BASIC_MINIMAP_HORIZONS_COUNTER": "또 다른 간단한 대응법.\n보호막 프로젝터%force-projector%는 \n호라이즌%horizon%을 상대로 매우 효과적입니다",
     "TUTORIAL_BASIC_MINIMAP_PC_SHORTCUTS": "PC의 경우, 각 블록을 선택할 수 있는 단축키가 있습니다. \n몇 가지를 알고 있으면[green]빠르게[] 건설할 수 있습니다.\n\n핵심 단축키:\n- [1, 2] 스캐터%scatter%\n- [2, 1] 기계식 드릴%mechanical-drill%\n- [3, 1] 컨베이어%conveyor%\n- [5, 1] 전력 노드%power-node%\n- [9, 1] 멘더%mender%",
-    "TUTORIAL_BASIC_COMPLETE": "[purple]튜토리얼 완료![]\n\n1 분 이내에 자동으로 로비로 이동합니다.\n[yellow]/balance[]변화를 확인하는 걸 잊지 마세요.\n\n이후에 vs AI를 통해 배운 것을 연습해 보는 걸 추천합니다. 로비에서 [yellow]/ai[] 명령어로 훈련할 수 있지만, AI보단 실제 PvP가 [purple]더 재밌고 보람차다[]는 것을 기억하세요.\n\n아, 그리고 [yellow]/help[]를 통해 모든 명령어를 확인할 수 있습니다.\n\n[green]행운을 빕니다, 즐겜하세요![]"
+    "TUTORIAL_BASIC_COMPLETE": "[purple]튜토리얼 완료![]\n\n1 분 이내에 자동으로 로비로 이동합니다.\n\n이후에 vs AI를 통해 배운 것을 연습해 보는 걸 추천합니다. 로비에서 [yellow]/ai[] 명령어로 훈련할 수 있지만, AI보단 실제 PvP가 [purple]더 재밌고 보람차다[]는 것을 기억하세요.\n\n아, 그리고 [yellow]/help[]를 통해 모든 명령어를 확인할 수 있습니다.\n\n[green]행운을 빕니다, 즐겜하세요![]"
   }
 }

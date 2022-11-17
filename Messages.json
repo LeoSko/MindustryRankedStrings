@@ -499,7 +499,7 @@
     "ONLY_FOR_SPECTATOR": "[scarlet]This command is only for spectators",
     "BACK_FORMAT": "Getting back to [red]HUB[] in @ seconds.",
     "TIEBREAKER": "Tiebreaker",
-    "RECONNECTS_LEFT": "You have [red]@[] reconnects left! To surrender send [yellow]/surrender",
+    "RECONNECTS_LEFT": "You have [red]@[] reconnections left! To surrender send [yellow]/surrender",
     "PLAYER_RECONNECTED": "Player @[white] ([#@]@[]) reconnected, he has [yellow]@[] reconnections left.",
     "SPECTATOR_CONNECTED": "Spectator @[white] connected.",
     "SPECTATOR_DISCONNECTED": "Spectator @[white] disconnected.",

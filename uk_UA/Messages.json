@@ -89,6 +89,7 @@
     "MAIL_NEXT_PAGE": "[green]Ця сторінка [yellow]@[], для іншого типу сторінки [yellow]/read all [page]",
     "CMD_DESCRIPTION_ai": "матч проти ШІ",
     "ACHIEVEMENT_UNLOCKED": "\n[#00FF00]Досягнення розблоковано!\n[gold]@\n[white]@\n",
+    "ACHIEVEMENT_UNLOCKED_BROADCAST": "[white]@[#00FF00] розблокував досягнення [gold]@[#00FF00]!",
     "ACHIEVEMENT_DESCRIPTION_MICRO_MACHINE_V": "керуйте вручну одиницями 100 годин",
     "ACHIEVEMENT_NAME_FLAWLESS_VICTORY": "Бездоганна перемога",
     "ACHIEVEMENT_DESCRIPTION_FLAWLESS_VICTORY": "Виграйте битву без жодної втрати одиниці чи будівлі",

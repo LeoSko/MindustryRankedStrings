@@ -95,6 +95,7 @@
     "MAIL_NEXT_PAGE": "[green]Страница [yellow]@[], для другой страницы напишите [yellow]/read all [номер_страницы]",
     "CMD_DESCRIPTION_ai": "битва с AI (компьютером)",
     "ACHIEVEMENT_UNLOCKED": "\n[#00FF00]Открыто достижение!\n[gold]@\n[white]@\n",
+    "ACHIEVEMENT_UNLOCKED_BROADCAST": "[white]@[#00FF00] открыл достижение [gold]@[#00FF00]!",
     "UI_queue_info": "информация об очереди в лобби",
     "UI_stats": "инфо при наблюдении матчей",
     "UI_cursor": "курсор игроков при наблюдении матчей",

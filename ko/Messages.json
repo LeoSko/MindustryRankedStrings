@@ -109,6 +109,7 @@
     "MAIL_NEXT_PAGE": "[green]현재 페이지 [yellow]@[]입니다,  다른 페이지를 볼려면 [yellow]/read all [페이지 수]를 입력하세요.",
     "KICKED_BY_ADMIN": "관리자에 의해 강퇴되었습니다. @[white]#[yellow]@[]:\n@",
     "ACHIEVEMENT_UNLOCKED": "\n[#00FF00]도전과제 달성!\n[gold]@\n[white]@\n",
+    "ACHIEVEMENT_UNLOCKED_BROADCAST": "[white]@[#00FF00] 님이 도전과제 [gold]@[#00FF00] 를 달성했습니다!",
     "ACHIEVEMENT_LIST_ITEM": "[@]@[] / [@]@[]명 달성",
     "ACHIEVEMENT_NAME_I_WAS_THERE": "라때는 말이야!",
     "ACHIEVEMENT_DESCRIPTION_I_WAS_THERE": "베타 버전 계정으로 로그인하세요",

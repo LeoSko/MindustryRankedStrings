@@ -412,6 +412,7 @@
     "UNREAD_NEWS": "You have [yellow]@[white] unread news, send [yellow]/news[white] to read them.",
     "AUTOREADY_OFF_UNREAD_NEWS": "Your AutoReady is [red]not[white] triggered because you have unread [cyan]@ [yellow]/news",
     "NEWS_FORMAT": "@ - @\n\n@",
+    "NEWS_MARKED_READ": "[green]All news marked as read.",
     "SUPPORTED_LANGUAGES": "Supported languages: @",
     "NEW_JOIN_NUMBER": "[green]Your join key is [yellow]@[green], use it on secondary account with [yellow]/join @[green].\n\n[red]Do not lose this key, write it down or make a screenshot.\nYour history and rating on secondary account will NOT be transferred and will become inaccessible!",
     "CANT_JOIN_LINKED_DISCORD": "[green]Your account is linked with discord. Unlink it via [yellow]/unlinkdiscord[] or via website [yellow]ranked.ddns.net",

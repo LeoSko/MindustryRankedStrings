@@ -29,6 +29,7 @@
     "MUTED_UNTIL": "[scarlet]Warning: you have been muted until @.",
     "MUTED_EVERYONE": "Note: you muted everyone. Send [yellow]/muteall[white] to unmute.",
     "MESSAGE_LIMIT": "[scarlet]You may only send @ messages within last @ seconds.",
+    "COMMAND_TOO_QUICKLY": "[scarlet]You are using commands too quickly. Only @ commands are allowed within @ seconds.",
     "NO_MUTES": "No mutes",
     "LEADERBOARD_SWITCH_TO_LOCAL": "You switched leaderboard to [green]local",
     "LEADERBOARD_SWITCH_TO_GLOBAL": "You switched leaderboard to [green]global",

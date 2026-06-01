@@ -29,6 +29,7 @@
     "MUTED_UNTIL": "[scarlet]경고: 도배로 인해 @ 동안 차단됩니다.",
     "MUTED_EVERYONE": "참고: 모두를 차단했습니다. [yellow]/muteall[white]를 입력해서 차단 해제를 할 수 있습니다.",
     "MESSAGE_LIMIT": "[scarlet]@ 메시지를 지난 @ 초 이내에 발신했을 수도 있습니다.",
+    "COMMAND_TOO_QUICKLY": "[scarlet]명령어를 너무 빠르게 사용하고 있습니다. @ 초 이내에 @ 개의 명령어만 허용됩니다.",
     "NO_MUTES": "차단 없음",
     "LEADERBOARD_SWITCH_TO_LOCAL": "리더보드 모드를 [green]local[]로 변경했습니다.",
     "LEADERBOARD_SWITCH_TO_GLOBAL": "리더보드 모드를 [green]global[]로 변경했습니다.",

@@ -23,6 +23,7 @@
     "MUTED_UNTIL": "[scarlet]Aviso: has sido silenciado hasta @.",
     "MUTED_EVERYONE": "Nota: has silenciado a todos. Envia [yellow] /muteall [white] para desilenciar.",
     "MESSAGE_LIMIT": "[escarlata]Solo puedes enviar @ mensajes en @ segundos.",
+    "COMMAND_TOO_QUICKLY": "[escarlata]Estás usando comandos demasiado rápido. Solo se permiten @ comandos cada @ segundos.",
     "NO_MUTES": "ninguno silenciado",
     "LEADERBOARD_SWITCH_TO_LOCAL": "Cambiaste la  clasificación a [green]local",
     "LEADERBOARD_SWITCH_TO_GLOBAL": "Cambiaste la clasificación a [green]global",

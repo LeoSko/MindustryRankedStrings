@@ -475,6 +475,7 @@
     "DUEL_PENDING": "[scarlet]Your duel request to @[scarlet] is still open. Wait for an answer or for it to expire.",
     "DUEL_COOLDOWN": "[scarlet]Wait [yellow]@[scarlet] s before you send another duel request.",
     "DUEL_RANDOM_MAP": "random",
+    "DUEL_LINK": "Your duel link: [accent]https://@/duel/@[white]. Send it to a friend: they join this server and type [accent]/duel @[white].",
     "DUEL_SENT": "Duel request sent to @[white] (map: [yellow]@[white]). It expires in @ s.",
     "DUEL_MENU_TITLE": "Duel request",
     "DUEL_MENU_TEXT": "@[white] challenges you to an unranked 1v1.\nMap: [yellow]@[white]\nThe request expires in @ s.",

@@ -483,6 +483,7 @@
     "FINISH_FORMAT": "#[yellow]@[] of [yellow]@[] (@)",
     "RATING_CALCULATION_NEXT_TEAM_ELIMINATION_WARNING": "[red]Your rating change will be calculated when some next team will be eliminated",
     "RATING_CHANGE": "Your rating: [orange]@->@[white] @",
+    "MATCH_PAGE_LINK": "[sky]Replay and stats of this match: [yellow]@",
     "PLAYER_MATCHMAKING_UNLOCKED": "You can now leave the match and search for a new one. [yellow]/hub[]",
     "REASON_DEFEAT": "defeat",
     "REASON_TIEBREAKER": "tiebreaker",

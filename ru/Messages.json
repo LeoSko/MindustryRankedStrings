@@ -369,6 +369,7 @@
     "FINISH_FORMAT": "#[yellow]@[] из [yellow]@[] (@)",
     "RATING_CALCULATION_NEXT_TEAM_ELIMINATION_WARNING": "[red]Когда следующая команда будет уничтожена Ваше изменение рейтинга будет посчитано и вы сможете начать следующую игру.",
     "RATING_CHANGE": "Ваш рейтинг: [orange]@->@[white] @",
+    "MATCH_PAGE_LINK": "[sky]Повтор и статистика матча: [yellow]@",
     "PLAYER_MATCHMAKING_UNLOCKED": "Теперь вы можете искать новый матч. [yellow]/hub[]",
     "SURRENDER_USAGE": "[yellow]/surrender[white] чтобы сдаться",
     "START_FORMAT": "[green]Карта [yellow]@\n[@]@[] (@)\n@\n\n@",

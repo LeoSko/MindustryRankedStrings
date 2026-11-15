@@ -316,6 +316,7 @@
     "ONLY_FOR_DONORS": "[red]You are not donor to execute command @. Consider supporting the server at [yellow]ranked.ddns.net",
     "REPORT_USAGE": "You can [yellow]/report[] players by their [yellow]player ID number[].\nCurrently online:\n@\n[white]Example: [yellow]/report 12345 griefer in lobby[]\n[white]Example #2: [yellow]/report 23456 AFK in matches[]",
     "YOU_WERE_REPORTED": "[red]You've been reported by @[red] for [white]@[red]. Admins will review this later.",
+    "AUTO_FLAG_STAFF": "[scarlet]Auto flag:[] @ #@: @. Ranked rule: no auto-fill or other tool that acts for the player. Review the replay; 1st flag = warning, 2nd = 7-day ranked ban.",
     "REPORT_SAVED": "[green]Your report for player [white]@[green] ID[yellow]#@[green] with reason [white]@[green] was saved.",
     "PLAYER_ENTRY": "[white]ID#[yellow]@[]: @",
     "NAME_NOT_ALLOWED_PREFIX": "Your name starting with\n[red]@[]\nis not allowed. Choose another name.",

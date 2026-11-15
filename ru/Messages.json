@@ -307,9 +307,20 @@
     "CMD_DESCRIPTION_surv": "перейти на сервер выживания",
     "CMD_DESCRIPTION_welcome": "показать приветствие снова",
     "CMD_DESCRIPTION_why": "кто в очереди может сыграть с вами",
-    "CMD_DESCRIPTION_sync": "исправить рассинхрон мира"
+    "CMD_DESCRIPTION_sync": "исправить рассинхрон мира",
+    "CMD_DESCRIPTION_daily": "ежедневная осада: одно соло-испытание против ИИ для всех, с таблицей лидеров"
   },
   "lobby": {
+    "DAILY_TITLE": "Ежедневная осада, @",
+    "DAILY_TEXT": "Сегодня, одинаково для всех: [accent]@[] против [@]@ ИИ[].\nПобедите как можно быстрее. Поражение считается по тому, сколько вы продержались.\n\n@\n\nВаш лучший результат сегодня: @\nВаша серия: [accent]@[] дн. подряд (лучшая @)",
+    "DAILY_BOARD_EMPTY": "[lightgray]Сегодня ещё никто не играл. Будьте первым!",
+    "DAILY_NO_RESULT": "[lightgray]пока нет результата",
+    "DAILY_PLAY": "[green]Играть сегодняшнюю осаду",
+    "DAILY_CLOSE": "Закрыть",
+    "DAILY_SOLO_ONLY": "[scarlet]Ежедневная осада только соло. Сначала выйдите из группы и очереди.",
+    "DAILY_NO_NODE": "[scarlet]Нет доступного сервера матчей. Попробуйте через минуту.",
+    "DAILY_RESULT_WON": "[accent]Ежедневная осада:[] [green]победа за @[]. Серия: [accent]@[] дн. [yellow]/daily[] - таблица.",
+    "DAILY_RESULT_LOST": "[accent]Ежедневная осада:[] [orange]продержались @[]. Серия: [accent]@[] дн. [yellow]/daily[] - ещё попытка.",
     "WELCOME_MESSAGE": "[red]Добро пожаловать в рейтинговый PvP!\n\n[white]Чтобы встать в очередь нажмите на надпись\nв левом верхнем углу (или напишите [yellow]/r[])\nподбор игроков может занять несколько минут\n\nнапишитe [yellow]/help[white] чтобы посмотреть все команды сервера\n\nрекомендуется пройти обучение\nкомандой [yellow]/tutorial[] перед боем\n\nОтставить отзыв можно в [blue]Discord %discord%[white]\n[yellow]@[white]",
     "LEADERBOARD_FORMAT_TOP3": "Лидеры (глобально):\n[red]\uE1B3 [white]@[white] ([@]@[white], [@]@ [@]#@[white])\n[orange]\uE1B4 [white]@[white] ([@]@[white], [@]@ [@]#@[white])\n[yellow]\uE1B5 [white]@[white] ([@]@[white], [@]@ [@]#@[white])",
     "SHORT_LEADERBOARD_FORMAT_TOP3": "Лидеры (глобально):\n[red]\uE1B3 [white]@ [@]@\n[orange]\uE1B4 [white]@ [@]@\n[yellow]\uE1B5 [white]@ [@]@",

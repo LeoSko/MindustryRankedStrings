@@ -400,9 +400,20 @@
     "CMD_DESCRIPTION_surv": "go to the survival server",
     "CMD_DESCRIPTION_welcome": "show the welcome message again",
     "CMD_DESCRIPTION_why": "show who in the queue can match with you",
-    "CMD_DESCRIPTION_sync": "fix a desynced world"
+    "CMD_DESCRIPTION_sync": "fix a desynced world",
+    "CMD_DESCRIPTION_daily": "play the daily siege: one solo challenge vs AI for everyone, with a leaderboard"
   },
   "lobby": {
+    "DAILY_TITLE": "Daily siege, @",
+    "DAILY_TEXT": "Today, the same for everyone: [accent]@[] vs [@]@ AI[].\nWin as fast as you can. A loss counts by how long you held.\n\n@\n\nYour best today: @\nYour streak: [accent]@[] day(s) in a row (best @)",
+    "DAILY_BOARD_EMPTY": "[lightgray]Nobody played today yet. Be the first!",
+    "DAILY_NO_RESULT": "[lightgray]no result yet",
+    "DAILY_PLAY": "[green]Play today's siege",
+    "DAILY_CLOSE": "Close",
+    "DAILY_SOLO_ONLY": "[scarlet]The daily siege is solo. Leave your group and the queue first.",
+    "DAILY_NO_NODE": "[scarlet]No match server is up. Try again in a minute.",
+    "DAILY_RESULT_WON": "[accent]Daily siege:[] [green]won in @[]. Streak: [accent]@[] day(s). [yellow]/daily[] for the board.",
+    "DAILY_RESULT_LOST": "[accent]Daily siege:[] [orange]held @[]. Streak: [accent]@[] day(s). [yellow]/daily[] to try again.",
     "SERVER_NAME": "[yellow]⚡ [red]Ranked 1 vs 1 [yellow]⚡",
     "SERVER_NAME_2V2": "[yellow]⚡ [red]Ranked [blue]2 vs 2 [yellow]⚡",
     "SERVER_NAME_3V3": "[yellow]⚡ [red]Ranked [purple]3 vs 3 [yellow]⚡",

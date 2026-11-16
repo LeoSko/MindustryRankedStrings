@@ -634,7 +634,12 @@
     "RECONNECTED_AFTER_ABANDONED": "You have reconnected after you have abandoned the match. You can still watch it as a spectator, or start searching a new match.",
     "ADMIN_FORCED_TUTORIAL": "[green]Seems like you are new to the server and administrator has forced a tutorial for you.\n\nIt will start shortly, and you will learn how to do simple things there.\n\nIt will take about 10 minutes.",
     "PLAYER_ABANDONED": "Player @[white] ([#@]@[]) left the match and can't come back anymore.",
-    "AUTOFILL_WARNING": "It seems you are using AutoFill, which is [red]not allowed[] on this server. Turn it off [red]now[] and play fair, otherwise your progress will be lost."
+    "AUTOFILL_WARNING": "It seems you are using AutoFill, which is [red]not allowed[] on this server. Turn it off [red]now[] and play fair, otherwise your progress will be lost.",
+    "TILE_HISTORY_TAP": "[accent]Tap a block[] to see who built or broke it in this match.",
+    "TILE_HISTORY_EMPTY": "[lightgray]Tile (@, @): nobody built or broke a block here in this match.",
+    "TILE_HISTORY_HEADER": "[accent]Tile (@, @)[], newest first:",
+    "TILE_HISTORY_BUILT": "[lightgray]@ ago[] @ [green]built[] @",
+    "TILE_HISTORY_BROKE": "[lightgray]@ ago[] @ [scarlet]broke[] @"
   },
   "tutorial": {
     "IN_THE_QUEUE_TUTORIAL": "You are in the queue for tutorial",

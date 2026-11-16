@@ -494,7 +494,12 @@
     "SPECTATE_MODE_RESOURCES_RATES": "ресурсы в секунду",
     "SPECTATE_MODE_NONE": "скрыть",
     "SPECTATE_MODE_CHANGED": "Режим наблюдения за командой [#@]@[] изменён на [yellow]@[].",
-    "PLAYER_ABANDONED": "Игрок @[white] из команды [#@]@[] покинул игру и больше не может вернуться."
+    "PLAYER_ABANDONED": "Игрок @[white] из команды [#@]@[] покинул игру и больше не может вернуться.",
+    "TILE_HISTORY_TAP": "[accent]Нажмите на блок[], чтобы увидеть, кто его построил или сломал в этом матче.",
+    "TILE_HISTORY_EMPTY": "[lightgray]Клетка (@, @): в этом матче здесь никто не строил и не ломал.",
+    "TILE_HISTORY_HEADER": "[accent]Клетка (@, @)[], сначала новые:",
+    "TILE_HISTORY_BUILT": "[lightgray]@ назад[] @ [green]построил[] @",
+    "TILE_HISTORY_BROKE": "[lightgray]@ назад[] @ [scarlet]сломал[] @"
   },
   "tutorial": {
     "IN_THE_QUEUE_TUTORIAL": "Вы в очереди на обучение",

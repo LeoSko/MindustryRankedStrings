@@ -553,6 +553,7 @@
   },
   "room": {
     "MAP_OF_WEEK_MATCH": "[gold]Map of the week![] A win here gives [green]+@%[] rating.",
+    "HANDICAP_MATCH": "[orange]Handicap:[] rating gap @, so @[] starts with [orange]@%[] fewer core items. A win against the handicap is worth less rating.",
     "SINGLE_PLAYER_FINISH_INFO": "#[@]@[] [#@]@[] @[white]",
     "SINGLE_PLAYER_FINISH_INFO_RANKED_SUFFIX": ": [orange]@->@[white]@",
     "MATCH_END_FORMAT": "Match finished! (@)[white]\n@\n\nWatch replay at [yellow]ranked.ddns.net[white]\nMatch ID: [yellow]@",

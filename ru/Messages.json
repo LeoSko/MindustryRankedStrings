@@ -494,6 +494,7 @@
     "SPECTATOR_CHAT_TIP": "Канал чата по-умолчанию только для наблюдателей, команда [yellow]/t[] отправит сообщение всем.",
     "SPECTATOR_STATS_TIP": "Нажатие на ядра команд переключит показ статистики этой команды.",
     "ONLY_FOR_SPECTATOR": "[scarlet]Данная команда только для наблюдателей",
+    "HUB_IN_MATCH": "[scarlet]Вы в матче.[] [yellow]/surrender[] чтобы выйти.",
     "MATCH_NOT_STARTED": "[scarlet]Нельзя сдаться в матче который остановлен или ещё не начат.",
     "PC_TAB_SWITCHES_THE_CHAT_MODE": "Полезный совет: клавиша <TAB> (слева от Q/Й) переключает режимы между обычным и командой [yellow]/t[].",
     "MATCH_END_FORMAT": "Матч завершён! (@)[white]\n@\n\nПосмотрите повтор на сайте [yellow]ranked.ddns.net[white]\nID матча: [yellow]@",

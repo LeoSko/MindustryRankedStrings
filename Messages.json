@@ -620,6 +620,7 @@
     "SPECTATOR_CHAT_TIP": "Default chat is spectator-only, use [yellow]/t[] to send message to everyone.",
     "PC_TAB_SWITCHES_THE_CHAT_MODE": "Useful tip: <TAB> (left from Q) key switches the chat mode between normal and [yellow]/t[] command.",
     "ONLY_FOR_SPECTATOR": "[scarlet]This command is only for spectators",
+    "HUB_IN_MATCH": "[scarlet]You are in a match.[] [yellow]/surrender[] to leave it.",
     "BACK_FORMAT": "Getting back to [red]HUB[] in @ seconds.",
     "TIEBREAKER": "Tiebreaker",
     "RECONNECTS_LEFT": "You have [red]@[] reconnections left! To surrender send [yellow]/surrender",

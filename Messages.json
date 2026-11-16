@@ -404,6 +404,7 @@
     "CMD_DESCRIPTION_daily": "play the daily siege: one solo challenge vs AI for everyone, with a leaderboard"
   },
   "lobby": {
+    "MAPS_OF_WEEK_JOIN": "[gold]Maps of the week:[] @. A ranked win on them gives [green]+@%[] rating.",
     "DAILY_TITLE": "Daily siege, @",
     "DAILY_TEXT": "Today, the same for everyone: [accent]@[] vs [@]@ AI[].\nWin as fast as you can. A loss counts by how long you held.\n\n@\n\nYour best today: @\nYour streak: [accent]@[] day(s) in a row (best @)",
     "DAILY_BOARD_EMPTY": "[lightgray]Nobody played today yet. Be the first!",
@@ -551,6 +552,7 @@
     "MATCHING_RESULT_RATING_LIMITED": "[red]rating limited[]"
   },
   "room": {
+    "MAP_OF_WEEK_MATCH": "[gold]Map of the week![] A win here gives [green]+@%[] rating.",
     "SINGLE_PLAYER_FINISH_INFO": "#[@]@[] [#@]@[] @[white]",
     "SINGLE_PLAYER_FINISH_INFO_RANKED_SUFFIX": ": [orange]@->@[white]@",
     "MATCH_END_FORMAT": "Match finished! (@)[white]\n@\n\nWatch replay at [yellow]ranked.ddns.net[white]\nMatch ID: [yellow]@",

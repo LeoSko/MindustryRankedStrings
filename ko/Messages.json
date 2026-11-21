@@ -232,7 +232,7 @@
     "ACHIEVEMENT_NAME_KABOOM": "펑!",
     "ACHIEVEMENT_DESCRIPTION_KABOOM": "크롤러를 최대한 많이 조종해서 한번에 터트리세요",
     "ACHIEVEMENT_NAME_IT_IS_OFFICIAL": "이제 공식이야",
-    "ACHIEVEMENT_DESCRIPTION_IT_IS_OFFICIAL": "디스코드 계정과 연결됨"
+    "ACHIEVEMENT_DESCRIPTION_IT_IS_OFFICIAL": "디스코드 계정과 연결됨",
     "ACHIEVEMENT_NAME_PEW_PEW": "빵야-빵야",
     "ACHIEVEMENT_DESCRIPTION_PEW_PEW": "한 경기 내에서 5분 동안 발사하세요",
     "ACHIEVEMENT_NAME_COLLECTOR": "수집가",
@@ -378,7 +378,7 @@
     "SPECTATE_CANT_FIND_MATCH": "[scarlet]해당 경기를 찾을 수 없습니다.",
     "BUILD_RESTRICTION": "[scarlet]로비에서 건설하기 전에 [yellow]@[]번 이상 경기를 완료해야 합니다.\n\n[yellow]/r[]을 입력하고 상대를 기다리세요.",
     "BUILD_RESTRICTION_HIDDEN_NAME": "[scarlet]히든 네임은 로비에서 건설이 제한됩니다.",
-    "BUILDING_BLOCKED": "[scarlet]관리자에 의해 일시적으로 로비에서 건설이 제한됩니다."
+    "BUILDING_BLOCKED": "[scarlet]관리자에 의해 일시적으로 로비에서 건설이 제한됩니다.",
     "NOT_QUEUED_BUTTON": "대기열에 없음",
     "NEWS_BUTTON": "[yellow] \uE809@[]",
     "SPAWNING": "플레이어 @[white]가 소환 : @ of @ at @:@ for team @",
@@ -477,8 +477,6 @@
     "TUTORIAL_BASIC_ECONOMY_LEAD": "다음으로 이것%ore-lead%를 연결하세요",
     "TUTORIAL_BASIC_ECONOMY_GRAPHITE_SILICON": "마지막으로 이들%graphite%%silicon%을 이것%titanium-conveyor%으로 연결하세요",
     "TUTORIAL_BASIC_POWER": "전력%power%.\n\n보통 시작 단계에서 화력 발전기%combustion-generator%를 많이 지을 필요가 없다.\n\n- %combustion-generator% 두 개를 지어 시작하세요\n- 터빈 발전기%steam-generator%를 건설하세요\n  진흙 위에 물 추출기%water-extractor%를 함께 건설하세요%mud%\n- 적 코어를 파괴하기 위해\n랜서%lancer% 한 개를 건설하세요.\n\n플라스터늄 벽%plastanium-wall%이 레이저 공격을 차단하는 데 \n정말 효과적이라는 걸 알 수 있습니다.",
-    "TUTORIAL_BASIC_MANUAL_CONTROL_DEFAULT_PRIORITY": "수동 유닛 조종.\n\n플레이어 기체의 데미지는 건물 대상으로 [red]매우 형편없습니다[].\n그래서 [green]유닛을 활용[]해야 합니다.\n\n기본적으로, 플레어%flare%의 AI는 발전기%power%를 우선 타격합니다.\n 이것은 상대가 코어를 지키지 않을 때 매우 불필요합니다.\n\n수동 공격 사용하기: 3기의 플레어를 모으고(g or 더블터치),\n적의 코어로 날아가 파괴하세요..",
-    "TUTORIAL_BASIC_MANUAL_CONTROL_DAMAGE_CORE": "팁 : 만약 플레어와 함께 적 코어의 위로 이동한다면, 당신의 공격이 바로 전달될 겁니다.",
     "TUTORIAL_BASIC_COUNTER_FLARES": "간단한 대응법. 플레어%flare%.\n\n빠른 공격에 대한 간단한 대응법은 항상 존재합니다.\n플레어에게는, 스캐터%scatter%가 있겠네요.\n그러나 시작부터 컨베이어를 만드는 것은 시간 낭비이며. \n[green]수동으로 자원을 투입[] 하는 것이 유용합니다.\n\n- 코에어서 납%ore-lead%을 챙깁니다\n- 스캐터%scatter%를 건설합니다\n- 탄환을 집어넣습니다\n- 플레어가 오기를 기다리세요\n\n단 한개의 터렛으로 플레어를 얼마나 \n쉽게 잡을 수 있는지 볼 수 있습니다.\n 만약 탄환이 떨어졌다면, 다시 집어넣으세요.",
     "TUTORIAL_BASIC_COUNTER_PULSARS": "간단한 대응법. 펄서%pulsar%.\n\n심지어 T2 유닛에 대한 간단한 대응법도 존재합니다.\n펄서에게는, 헤일과 전격 지뢰입니다..\n- 언로더%unloader%를 건설하세요, 실리콘%silicon%이 필요합니다\n- 언로더 옆에 헤일%hail%을 건설하세요\n- 적을 기다리세요\n- 적 유닛 앞에 전격 지뢰%shock-mine%를 건설하세요",
     "TUTORIAL_BASIC_MINIMAP": "미니맵. 마지막 단계!\n\n적이 어디에서 오는지 확인하기 위해선, 미니맵을 활용하는 것이 좋습니다.\n만약 활성화되어있지 않다면,\n설정 -> 그래픽 -> 미니맵 표시.\n\n- 모바일은 미니맵에서 위로 스윕하면 \n줌 아웃 할 수 있습니다\n- PC에서는 미니맵을 열어 스크롤 다운으로 줌아웃 할 수 있습니다\n\n첫 번째 적이 어디를 통해 오는지 확인하고, \n방어를 위해 서둘러 전력을 연결하세요!\n여기에서 당신의 목표는 포탑을 활용해 \n각 유형의 적을 처치하는 것입니다.",

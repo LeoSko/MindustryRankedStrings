@@ -99,7 +99,6 @@
     "AUTOSPEC_SEARCHING": "[lime]AUTO[] [gray]looking for action...[]",
     "AUTOSPEC_PLAYER": "[lime]AUTO[] @ @ [gray]·[] @ [gray]·[] @ apm",
     "AUTOSPEC_BATTLE": "[lime]AUTO[] [orange]battle[] @ [gray]vs[] @ [gray]·[] @ units [gray]·[] @ dmg/s",
-    "AUTOSPEC_DUEL": "[lime]AUTO[] [red]duel[] @ [gray]vs[] @ [gray]·[] @ tiles apart",
     "AUTOSPEC_PAUSED": "[gray]AUTO camera paused: you moved the camera. It comes back in @ s. Turn it off: [yellow]/ui[]",
     "AUTOSPEC_DOING_FIGHT": "[red]fighting[] @ enemies near",
     "AUTOSPEC_DOING_BUILD": "[yellow]building[] @",

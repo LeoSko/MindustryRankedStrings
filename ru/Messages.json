@@ -114,7 +114,6 @@
     "AUTOSPEC_SEARCHING": "[lime]АВТО[] [gray]ищу действие...[]",
     "AUTOSPEC_PLAYER": "[lime]АВТО[] @ @ [gray]·[] @ [gray]·[] @ apm",
     "AUTOSPEC_BATTLE": "[lime]АВТО[] [orange]бой[] @ [gray]против[] @ [gray]·[] юнитов: @ [gray]·[] урон/с: @",
-    "AUTOSPEC_DUEL": "[lime]АВТО[] [red]дуэль[] @ [gray]против[] @ [gray]·[] между ними @ блоков",
     "AUTOSPEC_PAUSED": "[gray]АВТО-камера на паузе: вы сдвинули камеру. Вернётся через @ с. Выключить: [yellow]/ui[]",
     "AUTOSPEC_DOING_FIGHT": "[red]в бою[], врагов рядом: @",
     "AUTOSPEC_DOING_BUILD": "[yellow]строит[] @",
